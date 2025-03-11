@@ -14,7 +14,7 @@
 export default {
   data() {
     return {
-      title: '這是一段標題',
+      title: '這是一段Jojo標題',
     };
   },
 };
